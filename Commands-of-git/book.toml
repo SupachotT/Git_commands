@@ -1,6 +1,6 @@
 title = 'Git Commands Document'
 [book]
-authors = ["Supachot"]
+authors = ["Supachot","Sirima"]
 language = "en"
 multilingual = true
 src = "src"
