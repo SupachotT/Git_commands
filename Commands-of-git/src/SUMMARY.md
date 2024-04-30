@@ -1,4 +1,4 @@
 # Summary
 
 [Introduction](./introduction.md)
-[Git Commands](./chapter_1.md)
+[Git Command : ตั้งค่าชื่อผู้ใช้](./ตั้งค่าชื่อผู้ใช้.md)
