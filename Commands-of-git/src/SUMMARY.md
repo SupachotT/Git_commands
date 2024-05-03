@@ -15,3 +15,4 @@
 - [restore](./git-restore.md)
 - [remote](./git-remote.md)
 - [stash](./git-stash.md)
+- [tag](./git-tag.md)
