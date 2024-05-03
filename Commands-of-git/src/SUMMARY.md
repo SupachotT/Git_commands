@@ -10,3 +10,4 @@
 - [commit](./git-commit.md)
 - [log](./git-log.md)
 - [diff](./git-diff.md)
+- [mv](./git-mv.md)
