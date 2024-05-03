@@ -18,3 +18,4 @@
 - [tag](./git-tag.md)
 - [pull and fetch](./git-pull_git-fetch.md)
 - [reset and revert](./git-reset_git-revert.md)
+- [checkout](./git-checkout.md)
