@@ -8,5 +8,5 @@
 - [add](./git-add.md)
 - [status](./git-status.md)
 - [commit](./git-commit.md)
-- [การตรวจสอบประวัติการติดตามของ git](./ตรวจสอบประวัติการติดตามของ%20git.md)
+- [log](./git-log.md)
 - [diff](./git-diff.md)
