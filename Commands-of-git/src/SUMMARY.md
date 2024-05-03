@@ -13,3 +13,4 @@
 - [mv](./git-mv.md)
 - [branch](./git-branch.md)
 - [restore](./git-restore.md)
+- [remote](./git-remote.md)
